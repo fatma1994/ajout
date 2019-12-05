@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="873f01d5-8fb1-44de-b592-5c5ccb9a2a82" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/gestion/app/Classe.php" beforeDir="false" afterPath="$PROJECT_DIR$/gestion/app/Classe.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion/app/Cours.php" beforeDir="false" afterPath="$PROJECT_DIR$/gestion/app/Cours.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion/app/Eleve.php" beforeDir="false" afterPath="$PROJECT_DIR$/gestion/app/Eleve.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion/app/Inscription.php" beforeDir="false" afterPath="$PROJECT_DIR$/gestion/app/Inscription.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion/app/Matiere.php" beforeDir="false" afterPath="$PROJECT_DIR$/gestion/app/Matiere.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion/app/Niveau.php" beforeDir="false" afterPath="$PROJECT_DIR$/gestion/app/Niveau.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion/app/Serie.php" beforeDir="false" afterPath="$PROJECT_DIR$/gestion/app/Serie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion/app/Teacher.php" beforeDir="false" afterPath="$PROJECT_DIR$/gestion/app/Teacher.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion/database/migrations/2019_11_28_160518_create_eleves_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/gestion/database/migrations/2019_11_28_160518_create_eleves_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion/database/migrations/2019_11_29_095723_create_teachers_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/gestion/database/migrations/2019_11_29_095723_create_teachers_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion/database/migrations/2019_11_29_114122_create_niveaux_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/gestion/database/migrations/2019_11_29_114122_create_niveaux_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion/database/migrations/2019_11_29_134724_create_classes_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/gestion/database/migrations/2019_11_29_134724_create_classes_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion/database/migrations/2019_11_29_151514_create_series_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/gestion/database/migrations/2019_11_29_151514_create_series_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion/database/migrations/2019_11_29_152212_create_inscriptions_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/gestion/database/migrations/2019_11_29_152212_create_inscriptions_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion/database/migrations/2019_11_29_155338_create_cours_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/gestion/database/migrations/2019_11_29_155338_create_cours_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion/database/migrations/2019_11_29_160403_create_matieres_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/gestion/database/migrations/2019_11_29_160403_create_matieres_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/gestion/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/gestion/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/gestion/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion/resources/views/page.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/gestion/resources/views/page.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/gestion/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/gestion/webpack.mix.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/gestion/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gestion" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/gestion/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/gestion/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/gestion/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/gestion/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/gestion/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/gestion/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/gestion/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/gestion/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/gestion/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/gestion/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/gestion/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/gestion/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/gestion/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/gestion/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/gestion/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/gestion/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/gestion/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/gestion/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/gestion/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/gestion/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/gestion/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/gestion/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/gestion/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/gestion/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/gestion/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/gestion/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/gestion/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/gestion/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/gestion/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/gestion/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/gestion/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/gestion/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/gestion/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/gestion/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/gestion/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/gestion/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/gestion/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/gestion/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/gestion/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/gestion/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/gestion/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/gestion/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/gestion/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/gestion/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/gestion/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/gestion/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/gestion/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/gestion/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/gestion/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/gestion/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/gestion/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/gestion/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/gestion/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/gestion/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/gestion/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/gestion/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/gestion/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/gestion/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/gestion/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/gestion/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/gestion/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/gestion/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/gestion/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/gestion/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/gestion/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/gestion/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/gestion/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/gestion/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/gestion/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/gestion/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/gestion/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/gestion/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/gestion/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/gestion/vendor/composer" />
+      <path value="$PROJECT_DIR$/gestion/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/gestion/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/gestion/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/gestion/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/gestion/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/gestion/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/gestion/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/gestion/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/gestion/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/gestion/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/gestion/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/gestion/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/gestion/vendor/phpdocumentor/reflection-common" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1UQLQuX5Y89tx7XdNrD1uoLaq5s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="873f01d5-8fb1-44de-b592-5c5ccb9a2a82" name="Default Changelist" comment="" />
+      <created>1575283861704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575283861704</updated>
+      <workItem from="1575283867884" duration="2677000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575284358734">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1575284358734" />
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1575284126369">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1575284126369" />
+  </component>
+</project>
